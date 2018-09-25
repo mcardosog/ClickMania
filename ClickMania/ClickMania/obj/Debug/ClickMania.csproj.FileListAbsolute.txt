@@ -1,0 +1,36 @@
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\bin\Debug\ClickMania.exe
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\bin\Debug\ClickMania.pdb
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.csprojResolveAssemblyReference.cache
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.Form1.resources
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.Properties.Resources.resources
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.csproj.GenerateResource.Cache
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.exe
+c:\users\solidsnk\documents\visual studio 2012\Projects\ClickMania\ClickMania\obj\Debug\ClickMania.pdb
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\bin\Debug\ClickMania.exe
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\bin\Debug\ClickMania.pdb
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.Form1.resources
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.Properties.Resources.resources
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.Recordcs.resources
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.StatusPuntuaciones.resources
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.csproj.GenerateResource.Cache
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.exe
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.pdb
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.csprojResolveAssemblyReference.cache
+C:\Users\SolidSnK\Desktop\New folder\ClickMania\ClickMania\obj\Debug\ClickMania.Ayuda.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.exe
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.pdb
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\bin\Debug\ClickMania.exe
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\bin\Debug\ClickMania.pdb
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.csprojResolveAssemblyReference.cache
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.Ayuda.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.Form1.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.Properties.Resources.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.Recordcs.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.StatusPuntuaciones.resources
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.csproj.GenerateResource.Cache
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\bin\Debug\ClickMania.exe.manifest
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\bin\Debug\ClickMania.application
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.exe.manifest
+C:\Users\SolidSnK\Desktop\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.application
+D:\School\0---SALVAS---0\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.exe
+D:\School\0---SALVAS---0\ClickMania\ClickMania\ClickMania\obj\Debug\ClickMania.pdb

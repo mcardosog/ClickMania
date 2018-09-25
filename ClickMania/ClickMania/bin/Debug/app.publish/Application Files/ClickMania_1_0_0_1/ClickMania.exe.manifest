@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ClickMania.exe" version="1.0.0.1" publicKeyToken="e905ed1767541796" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Mouse (4).ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ClickMania" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ClickMania.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClickMania.exe" size="3975680">
+      <assemblyIdentity name="ClickMania" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>QZW9SbJCRI4Al9v3A4WjhkPRR0s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Mouse (4).ico" size="161862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1Pye8xeeLI288t8nPTzrESifUVI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SolidSnK-PC\SolidSnK" issuerKeyHash="0326c2e17590963cd71e1baadf4f372d644c5d8d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2mgjSAHAdqyU0RYvZaYw5GrZvw0=</DigestValue></Reference></SignedInfo><SignatureValue>m7YgIym4KF0j4YYa2oSW8dZoHc2gorQNITn68OTn4Wt4tQfvPONwGAnK5/pP1fW8S2yVixoIS8Ruph+kCLeNRwio1N3xjykk6Tq3iJ0rc242uKZtWn365sMhQm3zzXCTtDu7bw8p4g8tv0TEoIQ2s5707qzcOyFVdEvvLczIqvI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tePqZ7OGFNrT9MtMzk9hsKkP3g625MoGnInyTJnu5IgKQAe3ohGjYMM7Dq2yPtvWS85Qb1FKHAIAa1GHBCln+56jZaLNhkYyCuXEK5sM4ItKn4UsTupB0oXq7zpsGCuwxjdiE76LpsOsCGjfJTlPpoANbSfQsEuU1Eib/2MYRdE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0dbfd96ae430a6652f16d194ac76c001482368da" Description="" Url=""><as:assemblyIdentity name="ClickMania.exe" version="1.0.0.1" publicKeyToken="e905ed1767541796" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SolidSnK-PC\SolidSnK</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BeVXSPrppG/iyc6fnZo+npY/VMs=</DigestValue></Reference></SignedInfo><SignatureValue>j00SEP+6m7eIiGmgfiKPPjJUWTUzSRPR8hlE2x0W8+n0KVi8e1ft2cJ7nmFYHiqN1lgeVj5c7PAGQZMsjOLNdHDjww5LVFwynoW9ifBnVB5L0kUzLZk67L8BUsxAyKqs0kXzug6GNaIifFm/qgKoHhlGVyHAcxSlCxU3W/Y1msk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tePqZ7OGFNrT9MtMzk9hsKkP3g625MoGnInyTJnu5IgKQAe3ohGjYMM7Dq2yPtvWS85Qb1FKHAIAa1GHBCln+56jZaLNhkYyCuXEK5sM4ItKn4UsTupB0oXq7zpsGCuwxjdiE76LpsOsCGjfJTlPpoANbSfQsEuU1Eib/2MYRdE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQGaRxunHY3oBP6pPCptK09zANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAUwBvAGwAaQBkAFMAbgBLAC0AUABDAFwAUwBvAGwAaQBkAFMAbgBLMB4XDTEzMDUyNDEwMDQ0MFoXDTE0MDUyNDE2MDQ0MFowMzExMC8GA1UEAx4oAFMAbwBsAGkAZABTAG4ASwAtAFAAQwBcAFMAbwBsAGkAZABTAG4ASzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtePqZ7OGFNrT9MtMzk9hsKkP3g625MoGnInyTJnu5IgKQAe3ohGjYMM7Dq2yPtvWS85Qb1FKHAIAa1GHBCln+56jZaLNhkYyCuXEK5sM4ItKn4UsTupB0oXq7zpsGCuwxjdiE76LpsOsCGjfJTlPpoANbSfQsEuU1Eib/2MYRdECAwEAATANBgkqhkiG9w0BAQUFAAOBgQBenNlLlHVBfnJV/2MzlO6xfKRbN+UYT0IAjzQ0F0MXeNBPOmfyHMYWftlt8tAQberHwd7y4ptX0frxicGRrU2Zodqwl9FeNz9UFJFsxGxV/FQ20lweWK6gk1/TphT99DImyf5dMKpwII0XsW2gSye2kcOD5+J8AgRTOIA9m5xZnA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
